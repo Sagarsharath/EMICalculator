@@ -1,0 +1,7 @@
+C:\Users\MOHAMMED AZEEM\Sharath\EMICalculator\EMICalculator\obj\Debug\EMICalculator.csprojAssemblyReference.cache
+C:\Users\MOHAMMED AZEEM\Sharath\EMICalculator\EMICalculator\obj\Debug\EMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMED AZEEM\Sharath\EMICalculator\EMICalculator\bin\Debug\EMICalculator.exe.config
+C:\Users\MOHAMMED AZEEM\Sharath\EMICalculator\EMICalculator\bin\Debug\EMICalculator.exe
+C:\Users\MOHAMMED AZEEM\Sharath\EMICalculator\EMICalculator\bin\Debug\EMICalculator.pdb
+C:\Users\MOHAMMED AZEEM\Sharath\EMICalculator\EMICalculator\obj\Debug\EMICalculator.exe
+C:\Users\MOHAMMED AZEEM\Sharath\EMICalculator\EMICalculator\obj\Debug\EMICalculator.pdb
