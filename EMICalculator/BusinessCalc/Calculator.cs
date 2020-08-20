@@ -17,7 +17,7 @@ namespace EMICalculator.BusinessCalc
                 noOfMonths = tenure,
                 disbursalDate = DateTime.Today.ToString("dd MMMM yyyy")
             };
-            decimal interest = (principal * tenure * interestRate) / ( 12 * 100); // Interest (PTR/100) where T will be in Years
+            decimal interest = (principal * tenure * interestRate) / ( 12 * 100); // Interest (PTR/100) where T should be in Years
             emi.totalPayableAmount = principal + interest;
             var monthlyEmi = new List<MonthlyEMIInfo>();
             for(int currentEmiNo =1; currentEmiNo <= tenure; currentEmiNo++)
